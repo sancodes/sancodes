@@ -11,4 +11,4 @@
 </ul>
 
 <h3> Connect with me </h3>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" />
+<a href="www.linkedin.com/in/loginto-bhujel"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /> </a>
