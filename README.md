@@ -1,9 +1,9 @@
 ![San's GitHub Banner](./assets/logo.jpeg)
 
-Hello Hello :wave:,
+Hello Hello :wave:
 ----------------
-<p> I am San, </p> 
-<p> My goal is to create change through Software Development and Machine Learning. </p>
+
+<p> My goal is to create <i>change</i> through Software Development and Machine Learning. </p>
 
 <br>
 
