@@ -12,6 +12,27 @@ Hello Hello :wave:
 
 <br> 
 
+##### Looking to discuss ideas, projects, or even just to chat? I'd be more than ***glad*** 😃 <a href="mailto:munsan14@gmail.com">Email Me. </a>
+----------------
+![Visits](https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fwww.github.com%2Fsancodes%2F&label=visits&countColor=%23d9e3f0&style=plastic)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
