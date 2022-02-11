@@ -1,4 +1,3 @@
-![San's GitHub Banner](./assets/logo.jpeg)
 
 Hello Hello :wave:
 ----------------
