@@ -30,7 +30,7 @@
 <h3> What am I upto? </h3>
 
 - Working as a <b>Data Engineer</b>, to get into Machine Learning
-- Volunteering as a Software Developer, to maintain and develop features to address Climate Change and Poverty
+- Volunteering in an <b>Non-Profit Organization</b> as a Software Developer, to address Climate Change and Poverty
 - Contributing to more open source projects to learn more, and stay updated with new Frameworks and Libraries
 
 <br>
@@ -42,47 +42,16 @@ Connect with me <br> <br>
 <br> 
 
 ---
-<br>
 
-[![San's GitHub stats](https://github-readme-stats.vercel.app/api?username=sancodes&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/sancodes/github-readme-stats)
+<p align="center">
+<a href="https://github.com/sancodes/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sancodes&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="San&#39;s GitHub stats">
+</a></p>
 <br> 
-----------------
 
-
-![Visits](https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fwww.github.com%2Fsancodes%2F&label=visits&countColor=%23d9e3f0&style=plastic)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+<br>
+<p align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fwww.github.com%2Fsancodes%2F&label=visitors&countColor=%23d9e3f0&style=plastic" />
+</p>
 
