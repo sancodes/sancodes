@@ -1,13 +1,13 @@
 <img src="./assets/banner.jpg" alt="Header Banner"/>
 <br>
 <br>
-<h3 align="center">
+<h4 align="center">
 :wave: I am San--a Software Engineer, primarily focused in Backend Development. 
-</h3>
+</h4>
 
 ---
 <br>
-<h3> Experiences: </h3>
+<h4> Experiences: </h4>
   
 - Developing FullStack Applications
 - Computer Science Instructor to school students 
@@ -17,7 +17,7 @@
 
 ----
 <br>
-<h3> My Experiences Has:  </h3>
+<h4> My Experiences Has:  </h4>
 
 - Help me connect more with the world of programming, and how it can be used to solve real world problems
 - Help me become better at explaining complex topics by breaking that topic into understandable sub-topics
@@ -27,7 +27,7 @@
 
 ---
 <br>
-<h3> What am I upto? </h3>
+<h4> What am I upto? </h4>
 
 - Working as a <b>Data Engineer</b>, to get into Machine Learning
 - Volunteering in an <b>Non-Profit Organization</b> as a Software Developer, to address Climate Change and Poverty
@@ -36,9 +36,13 @@
 <br>
 
 <p align="center"> 
-Connect with me <br> <br>
-<a href="mailto:munsan14@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+Reach Me: 
+<br>
+&#128071;
+<br>
+<br>
+<span> <a href="mailto:munsan14@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p> </span>
 <br> 
 
 ---
