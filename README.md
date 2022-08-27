@@ -2,7 +2,7 @@
 <br>
 <br>
 <h4 align="center">
-:wave: I am San--a Software Engineer, primarily focused in Backend Development. 
+:wave: <b> I am San--a Software Engineer, primarily focused in Backend Development. </b>
 </h4>
 
 ---
@@ -48,9 +48,11 @@ Reach Me:
 ---
 
 <p align="center">
-<a href="https://github.com/sancodes/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=sancodes&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="San&#39;s GitHub stats">
-</a></p>
+
+<a href="https://github.com/sancodes/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=sancodes&count_private=true&show_icons=true&theme=dark"/>
+</a>
+</p>
 <br> 
 
 ---
