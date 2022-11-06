@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" alt="Header Banner"/>
+<a href="sancodes-portfolio.netlify.app"> <img src="./assets/banner.jpg" alt="Header Banner"/> </a>
 <br>
 <br>
 <h4 align="center">
